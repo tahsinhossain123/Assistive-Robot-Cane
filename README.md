@@ -27,11 +27,9 @@ Key capabilities of the cane include:
 
 ## Conclusion 🌟
 
-This project was not only a technical challenge but a heartwarming experience. We believe in the potential of such innovations to make a meaningful difference in the world, especially for those with disabilities.
+This project was truly rewarding, and it showcased the potential of robotics to positively impact the world.
 
 
 
-
-This project was not only immensely educational but also truly rewarding, symbolizing the confluence of technology and empathy.
 
 
