@@ -7,7 +7,7 @@ The Assistive Robot Cane is a smart assistive tool designed for individuals with
 
 ## About the Project
 
-The Assistive Robot Cane was conceptualized and developed during the SoNIC Summer Research Workshop hosted by Cornell University. This workshop provided a deep dive into the world of Robotics and Assistive Technology.
+The Assistive Robot Cane was developed during the SoNIC Summer Research Workshop hosted by Cornell University. This workshop provided a deep dive into the world of Robotics and Assistive Technology.
 
 We were privileged to learn about the commendable work that Professor Tapomayukh Bhattacharjee and his lab are doing in the field of assistive technology, especially their efforts directed towards aiding individuals with mobility disabilities. Our exposure ranged from an introduction to the Robot Operating System (ROS) framework, to hands-on experience with perception motion planning and control. This experience was invaluable and rich in knowledge, introducing us to cutting-edge advancements in the field.
 
