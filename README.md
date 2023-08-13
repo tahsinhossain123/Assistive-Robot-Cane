@@ -5,13 +5,16 @@ The Assistive Robot Cane is a smart assistive tool designed for individuals with
 
 ![Assistive Robot Cane Image](https://github.com/tahsinhossain123/Assistive-Robot-Cane/blob/main/Robot-Cane-Image.jpg) 
 
-## Inspiration & Workshop Experience 💡
+## About the Project
 
-Our journey began with an enlightening session with Professor Tapomayukh Bhattacharjee, a pioneer in the field of assistive technology at Cornell University. The insights from Professor Bhattacharjee and the innovative work showcased by his lab on mobility aids were truly inspiring. 
+The Assistive Robot Cane was conceptualized and developed during the SoNIC Summer Research Workshop hosted by Cornell University. This workshop provided a deep dive into the world of Robotics and Assistive Technology.
 
-During a week-long summer workshop at Cornell University, my team and I embarked on this ambitious project. This setting provided a perfect blend of academic rigor and collaborative spirit.
+We were privileged to learn about the commendable work that Professor Tapomayukh Bhattacharjee and his lab are doing in the field of assistive technology, especially their efforts directed towards aiding individuals with mobility disabilities. Our exposure ranged from an introduction to the Robot Operating System (ROS) framework, to hands-on experience with perception motion planning and control. This experience was invaluable and rich in knowledge, introducing us to cutting-edge advancements in the field.
 
-We gained a comprehensive understanding of the Robot Operating System (ROS) framework, diving deep into topics like perception, motion planning, and control. The knowledge and technological advancements we were exposed to at Cornell were foundational in the development of the Assistive Robot Cane.
+Throughout this workshop, my team and I dedicated our efforts to build the smart assistive cane, designed with a primary focus on aiding individuals with visual impairments. The cane's capability to sense the environment and calculate the optimal path for users, even in the presence of dynamic obstacles, stands testament to the potential of robotics in making a positive impact in the world.
+
+
+
 
 ## Our Journey 🚀
 
@@ -25,4 +28,10 @@ Key capabilities of the cane include:
 ## Conclusion 🌟
 
 This project was not only a technical challenge but a heartwarming experience. We believe in the potential of such innovations to make a meaningful difference in the world, especially for those with disabilities.
+
+
+
+
+This project was not only immensely educational but also truly rewarding, symbolizing the confluence of technology and empathy.
+
 
