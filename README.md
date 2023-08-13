@@ -8,7 +8,7 @@ The Assistive Robot Cane is a smart assistive tool designed for individuals with
 
 ## Inspiration & Workshop Experience 💡
 
-Our journey began with an enlightening session with Professor Tapomayukh Bhattacharjee, a pioneer in the field of assistive technology. The insights from Professor Bhattacharjee and the innovative work showcased by his lab on mobility aids were truly inspiring. 
+Our journey began with an enlightening session with Professor Tapomayukh Bhattacharjee, a pioneer in the field of assistive technology at Cornell University. The insights from Professor Bhattacharjee and the innovative work showcased by his lab on mobility aids were truly inspiring. 
 
 During a week-long summer workshop at Cornell University, my team and I embarked on this ambitious project. This setting provided a perfect blend of academic rigor and collaborative spirit.
 
