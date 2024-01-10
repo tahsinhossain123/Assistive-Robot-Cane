@@ -1,7 +1,7 @@
 # Assistive Robot Cane 🤖🦯
 
 ## Overview
-The Assistive Robot Cane is a smart assistive tool designed for individuals with visual impairments. By leveraging the Robot Operating System (ROS) framework, the cane is able to actively sense its environment and compute optimal paths, ensuring the user is guided safely to their destination while dynamically avoiding obstacles Utilized two types of sensors, including Intel RealSense D435 for enhanced visual perception and Ultrasonic Sensor HC-SR04 for real-time distance measurement and obstacle detection.![image](https://github.com/tahsinhossain123/Assistive-Robot-Cane/assets/121660401/24a079a4-034d-466a-b73b-30ac623fef53)
+The Assistive Robot Cane is a smart assistive tool designed for individuals with visual impairments. By leveraging the Robot Operating System (ROS) framework, the cane is able to actively sense its environment and compute optimal paths, ensuring the user is guided safely to their destination while dynamically avoiding obstacles Utilized two types of sensors, including Intel RealSense D435 for enhanced visual perception and Ultrasonic Sensor HC-SR04 for real-time distance measurement and obstacle detection.
 
 
 ![Assistive Robot Cane Image](https://github.com/tahsinhossain123/Assistive-Robot-Cane/blob/main/Robot-Cane-Image.jpg) 
